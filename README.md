@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablu521&label=Profile%20views&color=0e75b6&style=flat" alt="bablu521" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bablu521" alt="bablu521" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Bablu521](https://github.com/Bablu521)
 
 - 📫 How to reach me **mohamedelbably521@gmail.com**
@@ -25,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu521&show_icons=true&locale=en&layout=compact" alt="bablu521" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bablu521&show_icons=true&locale=en" alt="bablu521" /></p>
+
